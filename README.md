@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Royce24vaz
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend development and digital marketing
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me www.instagram.com/roycejustu 
 
 <!---
