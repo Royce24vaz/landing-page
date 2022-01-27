@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Royce24vaz
-- 👀 I’m interested in frontend development and digital marketing
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in frontend development, flutter development and digital marketing
+- 🌱 I’m currently learning Flutter. 
 - 📫 How to reach me www.instagram.com/roycejustu 
 
 <!---
